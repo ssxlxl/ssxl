@@ -1,5 +1,5 @@
 {
-"spider":"http://yosakoi.tk:5716/d/Alist/tvbox/bc.jar",
+"spider":"https://image.api.losfer.cn/down.php/c3c380484e8e036a8bbc420acae273ca.jar",
 
 "sites": [
   {"key":"csp_SP360","name":"🎾360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
